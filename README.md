@@ -1,5 +1,5 @@
 # Shiny_app_feedback_report
-Creating a shiny app for manager's to view their team's 360 survey results
+"A shiny app for manager's to view their team's 360 survey results"
 
 This is a shiny app that I created on the 26th March 18.
 
@@ -21,20 +21,21 @@ The code for the shiny apps is embedded in the following link: Shiny_app_feedbac
 You will notice a folder for each of the three versions.
 
 In order to build this app, I used the following workflow:
-1) Envisioned the types data visuals that need to be built for the narrative. Built the approriate ggplots. R code 
+1) Envisioned the types data visuals that need to be built for the narrative. Built the approriate ggplots. R code available in this link - Shiny_app_feedback_report - refer to files called "Data_Viz..".
 2) Checked out the shiny website to see the various showcase apps to draw isnpiration. 
    https://www.rstudio.com/products/shiny/shiny-user-showcase/
 3) Then I looked at the gallery to imagine the best layout for my envisioned product. http://shiny.rstudio.com/gallery/
-4) Then I picked up relevant code snippets to build the app. This was more about lifting from my R code and dopping it into the code sections of the selected shiny layout.
+4) Then I picked up relevant code snippets to build the app. This was more about lifting from my R code and dropping it into the code sections of the selected shiny layout.
 
 The above four steps eventually got me the first app.
 
-Now I had to deploy the app for others to view. The following link helped me get started on this mission - https://shiny.rstudio.com/articles/shinyapps.html
+Now I had to deploy the app for others to view. The following link helped me immensely. https://shiny.rstudio.com/articles/shinyapps.html
 
 But I landed into operational challenges and the following links came to my rescue:
 https://stackoverflow.com/questions/27793616/how-to-deploy-shiny-app-that-uses-local-data
+https://stackoverflow.com/questions/36878256/shiny-app-deployment-error-cannot-change-working-directory
 
 R Studio has brilliant material for self-learning and I used the following link heavily to build this app: http://shiny.rstudio.com/tutorial/
 
-My hope is that some of the verbiage that i've provided will be helpful for a first time shiny aspirant.   
+My hope is that some of the detail I've provided will be helpful for a first time shiny aspirant.   
   
