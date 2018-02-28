@@ -1,0 +1,12 @@
+name: journal
+title: journal
+username:
+account: sidmehtashinyapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 288975
+bundleId: 1241566
+url: https://sidmehtashinyapps.shinyapps.io/journal/
+when: 1519694860.49762
+asMultiple: FALSE
+asStatic: FALSE

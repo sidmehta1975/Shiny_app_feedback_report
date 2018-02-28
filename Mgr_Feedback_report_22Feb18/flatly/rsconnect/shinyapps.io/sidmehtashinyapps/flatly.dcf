@@ -1,0 +1,12 @@
+name: flatly
+title:
+username:
+account: sidmehtashinyapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 288971
+bundleId: 1241531
+url: https://sidmehtashinyapps.shinyapps.io/flatly/
+when: 1519692300.11537
+asMultiple: FALSE
+asStatic: FALSE
