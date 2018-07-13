@@ -4,8 +4,7 @@
 This is a shiny app that I created on the 26th March 18.
 
 The motivation for this project was two fold:
-
-- I wanted too learn how build a shiny app
+- I wanted to learn how build a shiny app
 - I was keen to show my clients the power of shiny and how we could embed this into the workflow of SMEs
   to improve the utilisation of human capital tools.
   
@@ -18,6 +17,7 @@ For those that want to see the app, pls click the following links:
 The three versions have the same layout and content, but different appearance.
 
 The code for the shiny apps is embedded in the following link: Shiny_app_feedback_report/Mgr_Feedback_report_22Feb18/
+
 You will notice a folder for each of the three versions.
 
 In order to build this app, I used the following workflow:
