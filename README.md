@@ -4,8 +4,8 @@
 This is a shiny app that I created on the 26th March 18.
 
 The motivation for this project was two fold:
-- I wanted to learn how build a shiny app
-- I was keen to show my clients the power of shiny and how we could embed this into the workflow of SMEs
+- I wanted to learn how to build a shiny app
+- I was keen to show my clients the power of shiny and how we could embed this into their workflow
   to improve the utilisation of human capital tools.
   
 For those that want to see the app, pls click the following links:
@@ -21,8 +21,8 @@ The code for the shiny apps is embedded in the following link: Shiny_app_feedbac
 You will notice a folder for each of the three versions.
 
 In order to build this app, I used the following workflow:
-1) Envisioned the types data visuals that need to be built for the narrative. Built the approriate ggplots. R code available in this link - Shiny_app_feedback_report - refer to files called "Data_Viz..".
-2) Checked out the shiny website to see the various showcase apps to draw isnpiration. 
+1) Envisioned the types of data visuals that need to be built for the narrative. Built the approriate ggplots. R code available in this link - Shiny_app_feedback_report - refer to files called "Data_Viz..".
+2) Checked out the shiny website to see the various showcase apps fo inspiration. 
    https://www.rstudio.com/products/shiny/shiny-user-showcase/
 3) Then I looked at the gallery to imagine the best layout for my envisioned product. http://shiny.rstudio.com/gallery/
 4) Then I picked up relevant code snippets to build the app. This was more about lifting from my R code and dropping it into the code sections of the selected shiny layout.
